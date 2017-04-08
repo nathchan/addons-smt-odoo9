@@ -1,0 +1,68 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0c-20160726\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-14 03:59+0000\n"
+"PO-Revision-Date: 2017-02-14 11:28+0700\n"
+"Last-Translator: Chan Nath <channath@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: km\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. module: website_customer_order_delivery_date
+#: model:ir.ui.view,arch_db:website_customer_order_delivery_date.view_config_settings_customer_delivery_inherit
+#: model:ir.ui.view,arch_db:website_customer_order_delivery_date.view_customer_order_delivery_sale_form_view_inherited
+msgid "Customer Order Delivery Date"
+msgstr "កាលបរិច្ឆេទបញ្ជារដឹកជញ្ជូនរបស់អតិថិជន"
+
+#. module: website_customer_order_delivery_date
+#: model:ir.model.fields,field_description:website_customer_order_delivery_date.field_sale_order_customer_order_delivery_comment
+#: model:ir.ui.view,arch_db:website_customer_order_delivery_date.website_sale_customer_order_delivery_date
+msgid "Delivery Comment"
+msgstr "មតិយោបល់ពីការដឹកជញ្ជូន"
+
+#. module: website_customer_order_delivery_date
+#: model:ir.model.fields,field_description:website_customer_order_delivery_date.field_sale_order_customer_order_delivery_date
+#: model:ir.ui.view,arch_db:website_customer_order_delivery_date.website_sale_customer_order_delivery_date
+msgid "Delivery Date"
+msgstr "កាលបរិច្ឆេទដឹកជញ្ជូន"
+
+#. module: website_customer_order_delivery_date
+#: model:ir.model.fields,field_description:website_customer_order_delivery_date.field_website_config_settings_is_customer_order_delivery__comment_feature
+#: model:ir.model.fields,field_description:website_customer_order_delivery_date.field_website_is_customer_order_delivery_comment_feature
+msgid "Do you want to disable customer order delivery comment feature"
+msgstr "តើអ្នកចង់បិទមុខងារអធិប្បាយលើការបញ្ជាដឹកជញ្ជូនរបស់អតិថិជន?"
+
+#. module: website_customer_order_delivery_date
+#: model:ir.model.fields,field_description:website_customer_order_delivery_date.field_website_config_settings_is_customer_order_delivery__date_feature
+#: model:ir.model.fields,field_description:website_customer_order_delivery_date.field_website_is_customer_order_delivery_date_feature
+msgid "Do you want to disable customer order delivery date feature"
+msgstr "តើអ្នកចង់បិទកាលបរិច្ឆេទដឹកជញ្ជូននៃការបញ្ជាទិញរបស់អតិថិជន?"
+
+#. module: website_customer_order_delivery_date
+#: model:ir.model,name:website_customer_order_delivery_date.model_sale_order
+msgid "Sales Order"
+msgstr "ការបញ្ជារលក់"
+
+#. module: website_customer_order_delivery_date
+#: model:ir.model,name:website_customer_order_delivery_date.model_website
+msgid "Website"
+msgstr "វែបសាយ"
+
+#. module: website_customer_order_delivery_date
+#: model:ir.ui.view,arch_db:website_customer_order_delivery_date.website_sale_customer_order_delivery_date
+msgid "Write a comment..."
+msgstr "សរសេរមតិយោបល់ ..."
+
+#. module: website_customer_order_delivery_date
+#: model:ir.model,name:website_customer_order_delivery_date.model_website_config_settings
+msgid "website.config.settings"
+msgstr "website.config.settings"
